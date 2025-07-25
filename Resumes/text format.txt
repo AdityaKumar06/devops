@@ -1,0 +1,61 @@
+ADITYA KUMAR
++918340138522  -  Ak061410@gmail.com -  linkedin.com/in/adityakumar0614   -  github.com/AdityaKumar06
+EDUCATION
+Dayananda Sagar College of Engineering, Bangalore 
+Oct 2021 – Oct 2023
+Master of Computer Applications (MCA) 
+EXPERIENCE
+Apsensys Group        
+Mar 2024 – Sep 2025
+Web Developer
+Designed media platforms using Bootstrap, AJAX, PHP, jQuery, HTML, CSS.
+Collaborated with designers and backend teams to deploy scalable frontend systems
+Bangalore, Karnataka
+Built thesiliconreview.com, bizfortune.com, businesshonor.com, apsensyscare.com using PHP, JS..
+Prinston Smart Engineers    
+May 2022 – August 2022
+Full Stack Development Intern
+ Delivered full-stack applications using HTML, CSS, JavaScript, PHP, and MySQL.
+Built web apps for internship applications, College Internship System, and Movie ticket reservations.
+Bangalore, Karnataka
+PROJECTS
+The Silicon Review   (Thesiliconreview.com)      
+Technologies: Html5, CSS3, Bootstrap, Javascript, AJAX, Jquery, PHP, MySQL 
+A live production media website publishing business news, leadership features, and industry insights.
+Built a fully responsive platform with clean design, smooth interactions, and dynamic page updates.
+Bizfortune  (Bizfortune.com)
+Technologies: Html5, CSS3, Bootstrap, Javascript, AJAX, Jquery, PHP, MySQL 
+
+A complete production-ready media platform highlighting business achievements and success stories.
+Maintained responsiveness and fluid navigation across all screen sizes.
+Businesshonor  (Businesshonor.com)
+Technologies: Html5, CSS3, Bootstrap, Javascript, AJAX, Jquery, PHP,  MySQL
+
+
+Delivered a fully responsive platform with smooth interactions and dynamic content updates.
+A full production-level media website featuring global business leaders and rankings.
+Programming Languages:   C, C++, Java, Python, HTML5, CSS3, JavaScript, PHP, AJAX, jQuery, MySQL
+Frameworks and Tools: Bootstrap, Tailwind CSS, React.js, VS Code, Eclipse, Git, GitHub.
+
+TECHNICAL SKILLS
+CERTIFICATIONS
+VisionariesNetwork  (Visionariesnetwork.com)
+Technologies: Html5, CSS3, Bootstrap, Javascript, AJAX, Jquery, PHP, Email js, MySQL
+
+
+A full production-level media website focused on showcasing innovative leaders and business visionaries.
+Developed using a full-stack approach with dynamic frontend interfaces and real-time backend operations.
+ApsensysCare (Apsensyscare.com)
+Technologies: React, Tailwind , Javascript, Json , Ajax ,PHP , MySQL , Email js 
+
+
+A full production-level eCommerce website for essential home care products.
+Built with clean layout, smooth navigation, and integrated order handling system for a seamless shopping experience.
+Great Learning : Java, Front-End Development (HTML), AngularJS, Selenium (Basics) 
+LinkedIn Learning : Python.
+
+Simplilearn:  MongoDB Developer and Administrator , Introduction to Mernstack
+HackerRank : Problem Solving (Basic) Certificate, Python (Basic) Certificate
+
+
+
